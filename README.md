@@ -5,7 +5,7 @@
 
 An implementation of the seam-carving algorithm for content-aware image resizing. Users can resize an image by defining its desired height and width in pixels.
 
-## **Table of Contents**
+
 <!-- add table of contents having link -->
 
 ## **About**
